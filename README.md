@@ -21,7 +21,7 @@ While the extension's undergoing [review](https://github.com/raycast/extensions/
 1. Clone the repo locally, or download and unzip.
 2. Inside the extension folder, run `npm install && npm run build`.
 3. Search for 'Import Extension' in Raycast and import the extension folder.
-4. Type 'Check Sunrise / Sunset Times' to get started!
+4. Type 'Check Sunrise / Sunset Times' to get started! ✨
 
 ## How does it work?
 
