@@ -2,6 +2,10 @@
 
 A Raycast extension that lets you see sunrise / sunset times at your current location for dates up to a month in the future.
 
+## Video demo
+https://user-images.githubusercontent.com/33971845/162219429-faf7638b-03ed-4c12-a9f2-facbac30b548.mp4
+
+## Screenshots
 ![Main menu](metadata/sunrise-sunset-times-01.png)
 ![Actions](metadata/sunrise-sunset-times-03.png)
 
